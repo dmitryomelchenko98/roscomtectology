@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "core-js": "^3.6.4",
-    "swiper": "^5.4.2",
+    "swiper": "^6.5.1",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
     "vue-fullpage.js": "^0.1.5",
